@@ -1,7 +1,7 @@
 body{
     background-image: linear-gradient(to bottom right, rgb(252, 0, 252), rgb(135, 6, 255));
     background-repeat: no-repeat;
-    height: 590px;
+    height: 650px;
 }
 ul{
     list-style-type: none;
@@ -74,3 +74,4 @@ hr{
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
